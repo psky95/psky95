@@ -18,5 +18,3 @@ I am a passionate web publisher from South Korea.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psky95&layout=compact)](https://github.com/psky95/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psky95&show_icons=true&theme=tokyonight) 
-
