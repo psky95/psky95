@@ -1,4 +1,4 @@
-<span style="color=4FC08D">🤞 **Nice way to meet me**</span>
+🤞 **Nice way to meet me**
 
 Hi there 👋, my name is **Haneul**
 
