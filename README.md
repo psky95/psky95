@@ -1,4 +1,4 @@
-🤞 **Nice way to meet me**
+### 🤞 **Nice way to meet me**
 
 <img src="https://img.shields.io/badge/skyyyy8908@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/skyyyy8908-E4405F?style=flat-square&logo=instagram&logoColor=white"/> 
 
@@ -18,5 +18,5 @@ I am a passionate web publisher from South Korea.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psky95&layout=compact)](https://github.com/psky95/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psky95&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psky95&show_icons=true&theme=tokyonight) 
 
