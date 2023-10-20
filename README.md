@@ -1,3 +1,5 @@
+<span style="color:blue;">🤞 **Nice way to meet me**</span>
+
 Hi there 👋, my name is **Haneul**
 
 I am a passionate web publisher from South Korea.
