@@ -1,5 +1,5 @@
-### Hi there 👋, my name is **Haneul**
-#### I am a passionate web publisher from South Korea.
+Hi there 👋, my name is **Haneul**
+I am a passionate web publisher from South Korea.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
